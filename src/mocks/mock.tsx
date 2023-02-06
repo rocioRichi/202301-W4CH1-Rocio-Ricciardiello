@@ -1,6 +1,6 @@
 import { Gentleman } from "../models/gentlemans";
 
-export const gentleman: Gentleman[] = [
+export const gentlemans: Gentleman[] = [
   {
     id: 1,
     name: "Bertin Osborne",
